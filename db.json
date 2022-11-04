@@ -2,23 +2,23 @@
   "entities": [
     {
       "id": 1,
-      "naziv": "Teskoca1"
+      "naziv": "Oštećenje vida-slabovidnost"
     },
     {
       "id": 2,
-      "naziv": "Teskoca2"
+      "naziv": "Oštećenje sluha"
     },
     {
       "id": 3,
-      "naziv": "Teskoca3"
+      "naziv": "Poremećaji u ponašanju"
     },
     {
       "id": 4,
-      "naziv": "Teskoca4"
+      "naziv": "Intelektualne teškoće"
     },
     {
       "id": 5,
-      "naziv": "Teskoca5"
+      "naziv": "Oštećenje jezično-govorne-glasovne komunikacije"
     }
   ]
 }
